@@ -9,3 +9,5 @@
 [Proyecto FINAL curso 1 hecho en scratch VIDEOJUEGO. clic aquí](https://scratch.mit.edu/projects/1314789585)
 
 [Proyecto de tecnolochicas hecho en scratch 4. clic aquí](https://scratch.mit.edu/projects/1323765381)
+
+[Proyecto de tecnolochicas hecho en python 1. clic aquí](https://trinket.io/python/766e713d604a)
